@@ -21,13 +21,13 @@ Backend-разработчик на Java, фокус на микросервис
 
 - Разрабатывал микросервис с нуля в IT_ONE (Spring, PostgreSQL, Object Storage)
 - Проектирую API и бизнес-логику
-- Умею работать с высоконагруженными системами и очередями сообщений
+- Умею в команде
 
 ---
 
 ## 🚀 Experience
 
-**IT_ONE — Backend Developer (intern / project)**  
+**IT_ONE — Backend Developer (intern)**  
 - Разработка микросервиса на Spring Boot  
 - Интеграция с объектным хранилищем  
 - Работа с PostgreSQL и оптимизация запросов  
